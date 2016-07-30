@@ -9,6 +9,11 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.StringTokenizer;
 
+/*
+ * Filename: ExcelReader
+ * Created by William Huang
+ * Date: 7/30/2016
+ */
 public class ExcelReader {
 
 	public static final String fileName = "cards.csv";
