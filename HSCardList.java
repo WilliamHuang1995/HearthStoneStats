@@ -9,45 +9,48 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 import java.util.regex.Pattern;
 
-// finals
-// Hero Classes
-static final int Neutral = 0;
-static final int Druid = 1;
-static final int Hunter = 2;
-static final int Mage = 3;
-static final int Paladin = 4;
-static final int Priest = 5;
-static final int Rogue = 6;
-static final int Shaman = 7;
-static final int Warlock = 8;
-static final int Warrior = 9;
-// Sets
-static final int Classic = 0;
-static final int Naxxramas = 1;
-static final int Goblins = 2;
-static final int Blackrock = 3;
-static final int Grand = 4;
-static final int Explorers = 5;
-static final int Old = 6;
-//Rarity
-static final int Basic = 0;
-static final int Common = 1;
-static final int Rare = 2;
-static final int Epic = 3;
-static final int Legendary = 4;
+
 
 class HSCardList{
+	
+	// finals
+   // Hero Classes
+   final int Neutral = 0;
+   final int Druid = 1;
+   final int Hunter = 2;
+   final int Mage = 3;
+   final int Paladin = 4;
+   final int Priest = 5;
+   final int Rogue = 6;
+   final int Shaman = 7;
+   final int Warlock = 8;
+   final int Warrior = 9;
+   // Sets
+   final int Classic = 0;
+   final int Naxxramas = 1;
+   final int Goblins = 2;
+   final int Blackrock = 3;
+   final int Grand = 4;
+   final int Explorers = 5;
+   final int Old = 6;
+   //Rarity
+   final int Basic = 0;
+   final int Common = 1;
+   final int Rare = 2;
+   final int Epic = 3;
+   final int Legendary = 4;
+	
 	// Private Class
 	private class Card{
 		// Field
 		String Name;
 		int cost;
-		int set;
-		int heroClass;
-		int rarity;
+		String set;
+		String heroClass;
+		String rarity;
 		
 		// Constructor
-		Card(String Name, int cost, int set, int heroClass, int rarity ){
+		Card(String Name, int cost, String set, String heroClass, String rarity ){
 			this.Name = Name;
 			this.cost = cost;
 			this.set = set;
@@ -67,7 +70,7 @@ class HSCardList{
 	private Scanner in;
 	private Card C;
 	private String info;
-	private int[] script;
+	private String[] script;
 	
 	// Constructor
 	HSCardList(){
@@ -89,22 +92,24 @@ class HSCardList{
 	
 	// getList()
 	// Return the entire card collection list
-	List getList(){
+	List getList() throws FileNotFoundException{
 		L = new List();
-		in = new Scanner(new File(cards.csv));
+		in = new Scanner(new File("cards.csv"));
 		in.nextLine();
 		while(in.hasNextLine()){
 			info = in.nextLine();
 			script = info.split(";");
 			C = new Card(script[0],
 			   Integer.parseInt(script[1]),
-				Integer.parseInt(script[2]),
-				Integer.parseInt(script[3]),
-				Integer.parseInt(script[4])
+				script[2],
+				script[3],
+				script[4]
 			);
+			L.append(C);
 			size++;
 		}
-		
+		in.close();
+		return L;	
 	}
 	
 	// Manipulative Functions
@@ -118,8 +123,8 @@ class HSCardList{
 		if(L!=null){
 			L.moveFront();
 			while(L.index()!=-1){
-			   C = (Card) L.get()
-			   sb.append(C.toString);
+			   C = (Card) L.get();
+			   sb.append(C.toString());
 				sb.append("\n");
 				L.moveNext();
 			}
