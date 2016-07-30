@@ -1,8 +1,6 @@
 //-----------------------------------------------------------------------------
 //  List.java
 //  Henry Chang
-//  hechang
-//  pa3
 //  This is a List ADT that implements a node-based linked list format.
 //  It has been transformed from a List ADT of int to that of Object. 
 //-----------------------------------------------------------------------------
