@@ -1,0 +1,878 @@
+Name;Mana;Set;Class;Rarity
+Druid of the Flame;3;Blackrock;Druid;Common
+Volcanic Lumberer;9;Blackrock;Druid;Rare
+Quick Shot;2;Blackrock;Hunter;Common
+Core Rager;4;Blackrock;Hunter;Rare
+Flamewaker;3;Blackrock;Mage;Rare
+Dragon's Breath;5;Blackrock;Mage;Common
+Dragonkin Sorcerer;4;Blackrock;Neutral;Common
+Hungry Dragon;4;Blackrock;Neutral;Common
+Blackwing Corruptor;5;Blackrock;Neutral;Common
+Grim Patron;5;Blackrock;Neutral;Rare
+Drakonid Crusher;6;Blackrock;Neutral;Common
+Emperor Thaurissan;6;Blackrock;Neutral;Legendary
+Volcanic Drake;6;Blackrock;Neutral;Common
+Rend Blackhand;7;Blackrock;Neutral;Legendary
+Chromaggus;8;Blackrock;Neutral;Legendary
+Majordomo Executus;9;Blackrock;Neutral;Legendary
+Nefarian;9;Blackrock;Neutral;Legendary
+Blackwing Technician;3;Blackrock;Neutral;Common
+Dragon Egg;1;Blackrock;Neutral;Rare
+Dragon Consort;5;Blackrock;Paladin;Rare
+Solemn Vigil;5;Blackrock;Paladin;Common
+Twilight Whelp;1;Blackrock;Priest;Common
+Resurrect;2;Blackrock;Priest;Rare
+Gang Up;2;Blackrock;Rogue;Common
+Dark Iron Skulker;5;Blackrock;Rogue;Rare
+Lava Shock;2;Blackrock;Shaman;Rare
+Fireguard Destroyer;4;Blackrock;Shaman;Common
+Demonwrath;3;Blackrock;Warlock;Rare
+Imp Gang Boss;3;Blackrock;Warlock;Common
+Revenge;2;Blackrock;Warrior;Rare
+Axe Flinger;4;Blackrock;Warrior;Common
+Innervate;0;Classic;Druid;Basic
+Wrath;2;Classic;Druid;Common
+Healing Touch;3;Classic;Druid;Basic
+Mark of Nature;3;Classic;Druid;Common
+Savage Roar;3;Classic;Druid;Basic
+Bite;4;Classic;Druid;Rare
+Keeper of the Grove;4;Classic;Druid;Rare
+Soul of the Forest;4;Classic;Druid;Common
+Moonfire;0;Classic;Druid;Basic
+Swipe;4;Classic;Druid;Basic
+Druid of the Claw;5;Classic;Druid;Common
+Nourish;5;Classic;Druid;Rare
+Starfall;5;Classic;Druid;Rare
+Force of Nature;6;Classic;Druid;Epic
+Starfire;6;Classic;Druid;Basic
+Claw;1;Classic;Druid;Basic
+Ancient of Lore;7;Classic;Druid;Epic
+Ancient of War;7;Classic;Druid;Epic
+Ironbark Protector;8;Classic;Druid;Basic
+Cenarius;9;Classic;Druid;Legendary
+Naturalize;1;Classic;Druid;Common
+Savagery;1;Classic;Druid;Rare
+Mark of the Wild;2;Classic;Druid;Basic
+Power of the Wild;2;Classic;Druid;Common
+Wild Growth;2;Classic;Druid;Basic
+Hunter's Mark;0;Classic;Hunter;Basic
+Flare;2;Classic;Hunter;Rare
+Freezing Trap;2;Classic;Hunter;Common
+Misdirection;2;Classic;Hunter;Rare
+Scavenging Hyena;2;Classic;Hunter;Common
+Snake Trap;2;Classic;Hunter;Epic
+Snipe;2;Classic;Hunter;Common
+Animal Companion;3;Classic;Hunter;Basic
+Arcane Shot;1;Classic;Hunter;Basic
+Deadly Shot;3;Classic;Hunter;Common
+Eaglehorn Bow;3;Classic;Hunter;Rare
+Kill Command;3;Classic;Hunter;Basic
+Unleash the Hounds;3;Classic;Hunter;Common
+Houndmaster;4;Classic;Hunter;Basic
+Multi-Shot;4;Classic;Hunter;Basic
+Explosive Shot;5;Classic;Hunter;Rare
+Bestial Wrath;1;Classic;Hunter;Epic
+Starving Buzzard;5;Classic;Hunter;Basic
+Tundra Rhino;5;Classic;Hunter;Basic
+Savannah Highmane;6;Classic;Hunter;Rare
+Gladiator's Longbow;7;Classic;Hunter;Epic
+King Krush;9;Classic;Hunter;Legendary
+Timber Wolf;1;Classic;Hunter;Basic
+Tracking;1;Classic;Hunter;Basic
+Explosive Trap;2;Classic;Hunter;Common
+Arcane Missiles;1;Classic;Mage;Basic
+Arcane Intellect;3;Classic;Mage;Basic
+Counterspell;3;Classic;Mage;Rare
+Frost Nova;3;Classic;Mage;Basic
+Ice Barrier;3;Classic;Mage;Common
+Ice Block;3;Classic;Mage;Epic
+Kirin Tor Mage;3;Classic;Mage;Rare
+Mirror Entity;3;Classic;Mage;Common
+Ice Lance;1;Classic;Mage;Common
+Spellbender;3;Classic;Mage;Epic
+Vaporize;3;Classic;Mage;Rare
+Cone of Cold;4;Classic;Mage;Common
+Ethereal Arcanist;4;Classic;Mage;Rare
+Fireball;4;Classic;Mage;Basic
+Polymorph;4;Classic;Mage;Basic
+Water Elemental;4;Classic;Mage;Basic
+Mana Wyrm;1;Classic;Mage;Common
+Blizzard;6;Classic;Mage;Rare
+Archmage Antonidas;7;Classic;Mage;Legendary
+Flamestrike;7;Classic;Mage;Basic
+Pyroblast;10;Classic;Mage;Epic
+Mirror Image;1;Classic;Mage;Basic
+Arcane Explosion;2;Classic;Mage;Basic
+Frostbolt;2;Classic;Mage;Basic
+Sorcerer's Apprentice;2;Classic;Mage;Common
+Elven Archer;1;Classic;Neutral;Basic
+Jungle Panther;3;Classic;Neutral;Common
+King Mukla;3;Classic;Neutral;Legendary
+Magma Rager;3;Classic;Neutral;Basic
+Mind Control Tech;3;Classic;Neutral;Rare
+Murloc Warleader;3;Classic;Neutral;Epic
+Questing Adventurer;3;Classic;Neutral;Rare
+Raging Worgen;3;Classic;Neutral;Common
+Raid Leader;3;Classic;Neutral;Basic
+Goldshire Footman;1;Classic;Neutral;Basic
+Razorfen Hunter;3;Classic;Neutral;Basic
+Scarlet Crusader;3;Classic;Neutral;Common
+Shattered Sun Cleric;3;Classic;Neutral;Basic
+Silverback Patriarch;3;Classic;Neutral;Basic
+Southsea Captain;3;Classic;Neutral;Epic
+Tauren Warrior;3;Classic;Neutral;Common
+Thrallmar Farseer;3;Classic;Neutral;Common
+Grimscale Oracle;1;Classic;Neutral;Basic
+Tinkmaster Overspark;3;Classic;Neutral;Legendary
+Wolfrider;3;Classic;Neutral;Basic
+Ancient Brewmaster;4;Classic;Neutral;Common
+Ancient Mage;4;Classic;Neutral;Rare
+Chillwind Yeti;4;Classic;Neutral;Basic
+Cult Master;4;Classic;Neutral;Common
+Hungry Crab;1;Classic;Neutral;Epic
+Dark Iron Dwarf;4;Classic;Neutral;Common
+Defender of Argus;4;Classic;Neutral;Rare
+Dragonling Mechanic;4;Classic;Neutral;Basic
+Dread Corsair;4;Classic;Neutral;Common
+Gnomish Inventor;4;Classic;Neutral;Basic
+Leper Gnome;1;Classic;Neutral;Common
+Mogu'shan Warden;4;Classic;Neutral;Common
+Oasis Snapjaw;4;Classic;Neutral;Basic
+Ogre Magi;4;Classic;Neutral;Basic
+Sen'jin Shieldmasta;4;Classic;Neutral;Basic
+Silvermoon Guardian;4;Classic;Neutral;Common
+Lightwarden;1;Classic;Neutral;Rare
+Spellbreaker;4;Classic;Neutral;Common
+Stormwind Knight;4;Classic;Neutral;Basic
+Twilight Drake;4;Classic;Neutral;Rare
+Violet Teacher;4;Classic;Neutral;Rare
+Abomination;5;Classic;Neutral;Rare
+Azure Drake;5;Classic;Neutral;Rare
+Murloc Raider;1;Classic;Neutral;Basic
+Booty Bay Bodyguard;5;Classic;Neutral;Basic
+Captain Greenskin;5;Classic;Neutral;Legendary
+Darkscale Healer;5;Classic;Neutral;Basic
+Faceless Manipulator;5;Classic;Neutral;Epic
+Fen Creeper;5;Classic;Neutral;Common
+Frostwolf Warlord;5;Classic;Neutral;Basic
+Murloc Tidecaller;1;Classic;Neutral;Rare
+Gurubashi Berserker;5;Classic;Neutral;Basic
+Harrison Jones;5;Classic;Neutral;Legendary
+Leeroy Jenkins;5;Classic;Neutral;Legendary
+Nightblade;5;Classic;Neutral;Basic
+Secretkeeper;1;Classic;Neutral;Rare
+Silver Hand Knight;5;Classic;Neutral;Common
+Spiteful Smith;5;Classic;Neutral;Common
+Stampeding Kodo;5;Classic;Neutral;Rare
+Stormpike Commando;5;Classic;Neutral;Basic
+Stranglethorn Tiger;5;Classic;Neutral;Common
+Venture Co. Mercenary;5;Classic;Neutral;Common
+Shieldbearer;1;Classic;Neutral;Common
+Archmage;6;Classic;Neutral;Basic
+Argent Commander;6;Classic;Neutral;Rare
+Boulderfist Ogre;6;Classic;Neutral;Basic
+Cairne Bloodhoof;6;Classic;Neutral;Legendary
+Frost Elemental;6;Classic;Neutral;Common
+Gadgetzan Auctioneer;6;Classic;Neutral;Rare
+Wisp;0;Classic;Neutral;Common
+Southsea Deckhand;1;Classic;Neutral;Common
+Hogger;6;Classic;Neutral;Legendary
+Illidan Stormrage;6;Classic;Neutral;Legendary
+Lord of the Arena;6;Classic;Neutral;Basic
+Priestess of Elune;6;Classic;Neutral;Common
+Reckless Rocketeer;6;Classic;Neutral;Basic
+Sunwalker;6;Classic;Neutral;Rare
+Sylvanas Windrunner;6;Classic;Neutral;Legendary
+Stonetusk Boar;1;Classic;Neutral;Basic
+The Beast;6;Classic;Neutral;Legendary
+The Black Knight;6;Classic;Neutral;Legendary
+Windfury Harpy;6;Classic;Neutral;Common
+Baron Geddon;7;Classic;Neutral;Legendary
+Core Hound;7;Classic;Neutral;Basic
+Ravenholdt Assassin;7;Classic;Neutral;Rare
+Stormwind Champion;7;Classic;Neutral;Basic
+War Golem;7;Classic;Neutral;Basic
+Gruul;8;Classic;Neutral;Legendary
+Ragnaros the Firelord;8;Classic;Neutral;Legendary
+Voodoo Doctor;1;Classic;Neutral;Basic
+Alexstrasza;9;Classic;Neutral;Legendary
+Malygos;9;Classic;Neutral;Legendary
+Nozdormu;9;Classic;Neutral;Legendary
+Onyxia;9;Classic;Neutral;Legendary
+Ysera;9;Classic;Neutral;Legendary
+Deathwing;10;Classic;Neutral;Legendary
+Sea Giant;10;Classic;Neutral;Epic
+Worgen Infiltrator;1;Classic;Neutral;Common
+Mountain Giant;12;Classic;Neutral;Epic
+Molten Giant;20;Classic;Neutral;Epic
+Young Dragonhawk;1;Classic;Neutral;Common
+Young Priestess;1;Classic;Neutral;Rare
+Acidic Swamp Ooze;2;Classic;Neutral;Basic
+Amani Berserker;2;Classic;Neutral;Common
+Abusive Sergeant;1;Classic;Neutral;Common
+Ancient Watcher;2;Classic;Neutral;Rare
+Bloodfen Raptor;2;Classic;Neutral;Basic
+Bloodmage Thalnos;2;Classic;Neutral;Legendary
+Bloodsail Raider;2;Classic;Neutral;Common
+Bluegill Warrior;2;Classic;Neutral;Basic
+Crazed Alchemist;2;Classic;Neutral;Rare
+Dire Wolf Alpha;2;Classic;Neutral;Common
+Doomsayer;2;Classic;Neutral;Epic
+Angry Chicken;1;Classic;Neutral;Rare
+Faerie Dragon;2;Classic;Neutral;Common
+Frostwolf Grunt;2;Classic;Neutral;Basic
+Ironbeak Owl;2;Classic;Neutral;Common
+Knife Juggler;2;Classic;Neutral;Rare
+Kobold Geomancer;2;Classic;Neutral;Basic
+Loot Hoarder;2;Classic;Neutral;Common
+Argent Squire;1;Classic;Neutral;Common
+Lorewalker Cho;2;Classic;Neutral;Legendary
+Mad Bomber;2;Classic;Neutral;Common
+Mana Addict;2;Classic;Neutral;Rare
+Mana Wraith;2;Classic;Neutral;Rare
+Master Swordsmith;2;Classic;Neutral;Rare
+Millhouse Manastorm;2;Classic;Neutral;Legendary
+Murloc Tidehunter;2;Classic;Neutral;Basic
+Bloodsail Corsair;1;Classic;Neutral;Rare
+Nat Pagle;2;Classic;Neutral;Legendary
+Novice Engineer;2;Classic;Neutral;Basic
+Pint-Sized Summoner;2;Classic;Neutral;Rare
+River Crocolisk;2;Classic;Neutral;Basic
+Sunfury Protector;2;Classic;Neutral;Rare
+Wild Pyromancer;2;Classic;Neutral;Rare
+Youthful Brewmaster;2;Classic;Neutral;Common
+Acolyte of Pain;3;Classic;Neutral;Common
+Alarm-o-Bot;3;Classic;Neutral;Rare
+Arcane Golem;3;Classic;Neutral;Rare
+Big Game Hunter;3;Classic;Neutral;Epic
+Blood Knight;3;Classic;Neutral;Epic
+Coldlight Oracle;3;Classic;Neutral;Rare
+Coldlight Seer;3;Classic;Neutral;Rare
+Dalaran Mage;3;Classic;Neutral;Basic
+Demolisher;3;Classic;Neutral;Rare
+Earthen Ring Farseer;3;Classic;Neutral;Common
+Emperor Cobra;3;Classic;Neutral;Rare
+Flesheating Ghoul;3;Classic;Neutral;Common
+Harvest Golem;3;Classic;Neutral;Common
+Imp Master;3;Classic;Neutral;Rare
+Injured Blademaster;3;Classic;Neutral;Rare
+Ironforge Rifleman;3;Classic;Neutral;Basic
+Ironfur Grizzly;3;Classic;Neutral;Basic
+Repentance;1;Classic;Paladin;Common
+Argent Protector;2;Classic;Paladin;Common
+Divine Favor;3;Classic;Paladin;Rare
+Equality;2;Classic;Paladin;Rare
+Holy Light;2;Classic;Paladin;Basic
+Aldor Peacekeeper;3;Classic;Paladin;Rare
+Blessing of Might;1;Classic;Paladin;Basic
+Sword of Justice;3;Classic;Paladin;Epic
+Blessing of Kings;4;Classic;Paladin;Basic
+Consecration;4;Classic;Paladin;Basic
+Hammer of Wrath;4;Classic;Paladin;Basic
+Truesilver Champion;4;Classic;Paladin;Basic
+Blessed Champion;5;Classic;Paladin;Rare
+Blessing of Wisdom;1;Classic;Paladin;Common
+Holy Wrath;5;Classic;Paladin;Rare
+Avenging Wrath;6;Classic;Paladin;Epic
+Guardian of Kings;7;Classic;Paladin;Basic
+Lay on Hands;8;Classic;Paladin;Epic
+Tirion Fordring;8;Classic;Paladin;Legendary
+Eye for an Eye;1;Classic;Paladin;Common
+Hand of Protection;1;Classic;Paladin;Basic
+Humility;1;Classic;Paladin;Basic
+Light's Justice;1;Classic;Paladin;Basic
+Noble Sacrifice;1;Classic;Paladin;Common
+Redemption;1;Classic;Paladin;Common
+Circle of Healing;0;Classic;Priest;Common
+Divine Spirit;2;Classic;Priest;Basic
+Lightwell;2;Classic;Priest;Rare
+Mind Blast;2;Classic;Priest;Basic
+Shadow Word: Pain;2;Classic;Priest;Basic
+Shadow Word: Death;3;Classic;Priest;Basic
+Silence;0;Classic;Priest;Common
+Shadowform;3;Classic;Priest;Epic
+Thoughtsteal;3;Classic;Priest;Common
+Auchenai Soulpriest;4;Classic;Priest;Rare
+Lightspawn;4;Classic;Priest;Common
+Mass Dispel;4;Classic;Priest;Rare
+Mindgames;4;Classic;Priest;Epic
+Shadow Madness;4;Classic;Priest;Rare
+Holy Nova;5;Classic;Priest;Basic
+Holy Smite;1;Classic;Priest;Basic
+Cabal Shadow Priest;6;Classic;Priest;Epic
+Holy Fire;6;Classic;Priest;Rare
+Temple Enforcer;6;Classic;Priest;Common
+Prophet Velen;7;Classic;Priest;Legendary
+Mind Control;10;Classic;Priest;Basic
+Inner Fire;1;Classic;Priest;Common
+Mind Vision;1;Classic;Priest;Basic
+Northshire Cleric;1;Classic;Priest;Basic
+Power Word: Shield;1;Classic;Priest;Basic
+Backstab;0;Classic;Rogue;Basic
+Defias Ringleader;2;Classic;Rogue;Common
+Eviscerate;2;Classic;Rogue;Common
+Patient Assassin;2;Classic;Rogue;Epic
+Sap;2;Classic;Rogue;Basic
+Shiv;2;Classic;Rogue;Basic
+Edwin VanCleef;3;Classic;Rogue;Legendary
+Preparation;0;Classic;Rogue;Epic
+Fan of Knives;3;Classic;Rogue;Basic
+Headcrack;3;Classic;Rogue;Rare
+Perdition's Blade;3;Classic;Rogue;Rare
+SI:7 Agent;3;Classic;Rogue;Rare
+Master of Disguise;4;Classic;Rogue;Rare
+Assassin's Blade;5;Classic;Rogue;Basic
+Shadowstep;0;Classic;Rogue;Common
+Assassinate;5;Classic;Rogue;Basic
+Kidnapper;6;Classic;Rogue;Epic
+Vanish;6;Classic;Rogue;Basic
+Sprint;7;Classic;Rogue;Basic
+Cold Blood;1;Classic;Rogue;Common
+Conceal;1;Classic;Rogue;Common
+Deadly Poison;1;Classic;Rogue;Basic
+Sinister Strike;1;Classic;Rogue;Basic
+Betrayal;2;Classic;Rogue;Common
+Blade Flurry;2;Classic;Rogue;Rare
+Ancestral Healing;0;Classic;Shaman;Basic
+Flametongue Totem;2;Classic;Shaman;Basic
+Stormforged Axe;2;Classic;Shaman;Common
+Windfury;2;Classic;Shaman;Basic
+Far Sight;3;Classic;Shaman;Epic
+Feral Spirit;3;Classic;Shaman;Rare
+Totemic Might;0;Classic;Shaman;Basic
+Hex;3;Classic;Shaman;Basic
+Lava Burst;3;Classic;Shaman;Rare
+Lightning Storm;3;Classic;Shaman;Rare
+Mana Tide Totem;3;Classic;Shaman;Rare
+Unbound Elemental;3;Classic;Shaman;Common
+Dust Devil;1;Classic;Shaman;Common
+Windspeaker;4;Classic;Shaman;Basic
+Bloodlust;5;Classic;Shaman;Basic
+Doomhammer;5;Classic;Shaman;Epic
+Earth Elemental;5;Classic;Shaman;Epic
+Fire Elemental;6;Classic;Shaman;Basic
+Al'Akir the Windlord;8;Classic;Shaman;Legendary
+Earth Shock;1;Classic;Shaman;Common
+Forked Lightning;1;Classic;Shaman;Common
+Frost Shock;1;Classic;Shaman;Basic
+Lightning Bolt;1;Classic;Shaman;Common
+Rockbiter Weapon;1;Classic;Shaman;Basic
+Ancestral Spirit;2;Classic;Shaman;Rare
+Sacrificial Pact;0;Classic;Warlock;Basic
+Demonfire;2;Classic;Warlock;Common
+Succubus;2;Classic;Warlock;Basic
+Drain Life;3;Classic;Warlock;Basic
+Felguard;3;Classic;Warlock;Rare
+Sense Demons;3;Classic;Warlock;Common
+Shadow Bolt;3;Classic;Warlock;Basic
+Void Terror;3;Classic;Warlock;Rare
+Blood Imp;1;Classic;Warlock;Common
+Hellfire;4;Classic;Warlock;Basic
+Pit Lord;4;Classic;Warlock;Epic
+Shadowflame;4;Classic;Warlock;Rare
+Summoning Portal;4;Classic;Warlock;Common
+Bane of Doom;5;Classic;Warlock;Epic
+Doomguard;5;Classic;Warlock;Rare
+Corruption;1;Classic;Warlock;Basic
+Dread Infernal;6;Classic;Warlock;Basic
+Siphon Soul;6;Classic;Warlock;Rare
+Twisting Nether;8;Classic;Warlock;Epic
+Lord Jaraxxus;9;Classic;Warlock;Legendary
+Flame Imp;1;Classic;Warlock;Common
+Mortal Coil;1;Classic;Warlock;Basic
+Power Overwhelming;1;Classic;Warlock;Common
+Soulfire;1;Classic;Warlock;Basic
+Voidwalker;1;Classic;Warlock;Basic
+Inner Rage;0;Classic;Warrior;Common
+Commanding Shout;2;Classic;Warrior;Rare
+Cruel Taskmaster;2;Classic;Warrior;Common
+Fiery War Axe;2;Classic;Warrior;Basic
+Heroic Strike;2;Classic;Warrior;Basic
+Rampage;2;Classic;Warrior;Common
+Slam;2;Classic;Warrior;Common
+Charge;3;Classic;Warrior;Basic
+Frothing Berserker;3;Classic;Warrior;Rare
+Execute;1;Classic;Warrior;Basic
+Shield Block;3;Classic;Warrior;Basic
+Warsong Commander;3;Classic;Warrior;Basic
+Arathi Weaponsmith;4;Classic;Warrior;Common
+Kor'Kron Elite;4;Classic;Warrior;Basic
+Mortal Strike;4;Classic;Warrior;Rare
+Arcanite Reaper;5;Classic;Warrior;Basic
+Shield Slam;1;Classic;Warrior;Epic
+Brawl;5;Classic;Warrior;Epic
+Gorehowl;7;Classic;Warrior;Epic
+Grommash Hellscream;8;Classic;Warrior;Legendary
+Upgrade!;1;Classic;Warrior;Rare
+Whirlwind;1;Classic;Warrior;Basic
+Armorsmith;2;Classic;Warrior;Rare
+Battle Rage;2;Classic;Warrior;Common
+Cleave;2;Classic;Warrior;Basic
+Grove Tender;3;Goblins;Druid;Rare
+Druid of the Fang;5;Goblins;Druid;Common
+Dark Wispers;6;Goblins;Druid;Epic
+Mech-Bear-Cat;6;Goblins;Druid;Rare
+Recycle;6;Goblins;Druid;Rare
+Malorne;7;Goblins;Druid;Legendary
+Tree of Life;9;Goblins;Druid;Epic
+Anodized Robo Cub;2;Goblins;Druid;Common
+Glaivezooka;2;Goblins;Hunter;Common
+Steamwheedle Sniper;2;Goblins;Hunter;Epic
+Metaltooth Leaper;3;Goblins;Hunter;Rare
+Cobra Shot;5;Goblins;Hunter;Common
+King of Beasts;5;Goblins;Hunter;Rare
+Gahz'rilla;7;Goblins;Hunter;Legendary
+Call Pet;2;Goblins;Hunter;Rare
+Feign Death;2;Goblins;Hunter;Epic
+Unstable Portal;2;Goblins;Mage;Rare
+Soot Spewer;3;Goblins;Mage;Rare
+Echo of Medivh;4;Goblins;Mage;Epic
+Goblin Blastmage;4;Goblins;Mage;Rare
+Wee Spellstopper;4;Goblins;Mage;Epic
+Flame Leviathan;7;Goblins;Mage;Legendary
+Flamecannon;2;Goblins;Mage;Common
+Snowchugger;2;Goblins;Mage;Common
+Target Dummy;0;Goblins;Neutral;Rare
+Lil' Exorcist;3;Goblins;Neutral;Rare
+Ogre Brute;3;Goblins;Neutral;Common
+Spider Tank;3;Goblins;Neutral;Common
+Tinkertown Technician;3;Goblins;Neutral;Common
+Arcane Nullifier X-21;4;Goblins;Neutral;Rare
+Burly Rockjaw Trogg;4;Goblins;Neutral;Common
+Enhance-o Mechano;4;Goblins;Neutral;Epic
+Jeeves;4;Goblins;Neutral;Rare
+Kezan Mystic;4;Goblins;Neutral;Rare
+Lost Tallstrider;4;Goblins;Neutral;Common
+Mechanical Yeti;4;Goblins;Neutral;Common
+Mini-Mage;4;Goblins;Neutral;Epic
+Piloted Shredder;4;Goblins;Neutral;Common
+Antique Healbot;5;Goblins;Neutral;Common
+Blingtron 3000;5;Goblins;Neutral;Legendary
+Bomb Lobber;5;Goblins;Neutral;Rare
+Fel Reaver;5;Goblins;Neutral;Epic
+Hemet Nesingwary;5;Goblins;Neutral;Legendary
+Junkbot;5;Goblins;Neutral;Epic
+Madder Bomber;5;Goblins;Neutral;Rare
+Mimiron's Head;5;Goblins;Neutral;Legendary
+Salty Dog;5;Goblins;Neutral;Common
+Gazlowe;6;Goblins;Neutral;Legendary
+Mogor the Ogre;6;Goblins;Neutral;Legendary
+Piloted Sky Golem;6;Goblins;Neutral;Epic
+Toshley;6;Goblins;Neutral;Legendary
+Dr. Boom;7;Goblins;Neutral;Legendary
+Troggzor the Earthinator;7;Goblins;Neutral;Legendary
+Foe Reaper 4000;8;Goblins;Neutral;Legendary
+Force-Tank MAX;8;Goblins;Neutral;Common
+Sneed's Old Shredder;8;Goblins;Neutral;Legendary
+Mekgineer Thermaplugg;9;Goblins;Neutral;Legendary
+Clockwork Giant;12;Goblins;Neutral;Epic
+Annoy-o-Tron;2;Goblins;Neutral;Common
+Explosive Sheep;2;Goblins;Neutral;Common
+Gilblin Stalker;2;Goblins;Neutral;Common
+Mechwarper;2;Goblins;Neutral;Common
+Micro Machine;2;Goblins;Neutral;Common
+Puddlestomper;2;Goblins;Neutral;Common
+Recombobulator;2;Goblins;Neutral;Epic
+Ship's Cannon;2;Goblins;Neutral;Common
+Stonesplinter Trogg;2;Goblins;Neutral;Common
+Clockwork Gnome;1;Goblins;Neutral;Common
+Cogmaster;1;Goblins;Neutral;Common
+Flying Machine;3;Goblins;Neutral;Common
+Gnomeregan Infantry;3;Goblins;Neutral;Common
+Gnomish Experimenter;3;Goblins;Neutral;Rare
+Goblin Sapper;3;Goblins;Neutral;Rare
+Hobgoblin;3;Goblins;Neutral;Epic
+Illuminator;3;Goblins;Neutral;Rare
+Seal of Light;2;Goblins;Paladin;Common
+Shielded Minibot;2;Goblins;Paladin;Common
+Coghammer;3;Goblins;Paladin;Epic
+Muster for Battle;3;Goblins;Paladin;Rare
+Scarlet Purifier;3;Goblins;Paladin;Rare
+Bolvar Fordragon;5;Goblins;Paladin;Legendary
+Cobalt Guardian;5;Goblins;Paladin;Rare
+Quartermaster;5;Goblins;Paladin;Epic
+Shadowboxer;2;Goblins;Priest;Rare
+Shrinkmeister;2;Goblins;Priest;Common
+Velen's Chosen;3;Goblins;Priest;Common
+Upgraded Repair Bot;5;Goblins;Priest;Rare
+Vol'jin;5;Goblins;Priest;Legendary
+Lightbomb;6;Goblins;Priest;Epic
+Light of the Naaru;1;Goblins;Priest;Rare
+Shadowbomber;1;Goblins;Priest;Epic
+Goblin Auto-Barber;2;Goblins;Rogue;Common
+One-Eyed Cheat;2;Goblins;Rogue;Rare
+Cogmaster's Wrench;3;Goblins;Rogue;Epic
+Iron Sensei;3;Goblins;Rogue;Rare
+Sabotage;4;Goblins;Rogue;Epic
+Tinker's Sharpsword Oil;4;Goblins;Rogue;Common
+Ogre Ninja;5;Goblins;Rogue;Rare
+Trade Prince Gallywix;6;Goblins;Rogue;Legendary
+Crackle;2;Goblins;Shaman;Common
+Vitality Totem;2;Goblins;Shaman;Rare
+Whirling Zap-o-matic;2;Goblins;Shaman;Common
+Powermace;3;Goblins;Shaman;Rare
+Ancestor's Call;4;Goblins;Shaman;Epic
+Dunemaul Shaman;4;Goblins;Shaman;Rare
+Siltfin Spiritwalker;4;Goblins;Shaman;Epic
+Neptulon;7;Goblins;Shaman;Legendary
+Mistress of Pain;2;Goblins;Warlock;Rare
+Fel Cannon;4;Goblins;Warlock;Rare
+Imp-losion;4;Goblins;Warlock;Rare
+Demonheart;5;Goblins;Warlock;Epic
+Floating Watcher;5;Goblins;Warlock;Common
+Anima Golem;6;Goblins;Warlock;Epic
+Mal'Ganis;9;Goblins;Warlock;Legendary
+Darkbomb;2;Goblins;Warlock;Common
+Bouncing Blade;3;Goblins;Warrior;Epic
+Ogre Warmaul;3;Goblins;Warrior;Common
+Screwjank Clunker;4;Goblins;Warrior;Rare
+Siege Engine;5;Goblins;Warrior;Rare
+Iron Juggernaut;6;Goblins;Warrior;Legendary
+Shieldmaiden;6;Goblins;Warrior;Rare
+Crush;7;Goblins;Warrior;Epic
+Warbot;1;Goblins;Warrior;Common
+Poison Seeds;4;Naxxramas;Druid;Common
+Webspinner;1;Naxxramas;Hunter;Common
+Duplicate;3;Naxxramas;Mage;Common
+Shade of Naxxramas;3;Naxxramas;Neutral;Epic
+Stoneskin Gargoyle;3;Naxxramas;Neutral;Common
+Baron Rivendare;4;Naxxramas;Neutral;Legendary
+Wailing Soul;4;Naxxramas;Neutral;Rare
+Feugen;5;Naxxramas;Neutral;Legendary
+Loatheb;5;Naxxramas;Neutral;Legendary
+Sludge Belcher;5;Naxxramas;Neutral;Rare
+Spectral Knight;5;Naxxramas;Neutral;Common
+Stalagg;5;Naxxramas;Neutral;Legendary
+Maexxna;6;Naxxramas;Neutral;Legendary
+Undertaker;1;Naxxramas;Neutral;Common
+Kel'Thuzad;8;Naxxramas;Neutral;Legendary
+Zombie Chow;1;Naxxramas;Neutral;Common
+Echoing Ooze;2;Naxxramas;Neutral;Epic
+Haunted Creeper;2;Naxxramas;Neutral;Common
+Mad Scientist;2;Naxxramas;Neutral;Common
+Nerub'ar Weblord;2;Naxxramas;Neutral;Common
+Nerubian Egg;2;Naxxramas;Neutral;Rare
+Unstable Ghoul;2;Naxxramas;Neutral;Common
+Dancing Swords;3;Naxxramas;Neutral;Common
+Deathlord;3;Naxxramas;Neutral;Rare
+Avenge;1;Naxxramas;Paladin;Common
+Dark Cultist;3;Naxxramas;Priest;Common
+Anub'ar Ambusher;4;Naxxramas;Rogue;Common
+Reincarnate;2;Naxxramas;Shaman;Common
+Voidcaller;4;Naxxramas;Warlock;Common
+Death's Bite;4;Naxxramas;Warrior;Common
+Elite Tauren Chieftain;5;Promotion;Neutral;Legendary
+Gelbin Mekkatorque;6;Promotion;Neutral;Legendary
+Old Murk-Eye;4;Reward;Neutral;Legendary
+Captain's Parrot;2;Reward;Neutral;Epic
+Astral Communion;4;Grand;Druid;Epic
+Aviana;9;Grand;Druid;Legendary
+Darnassus Aspirant;2;Grand;Druid;Rare
+Druid of the Saber;2;Grand;Druid;Common
+Knight of the Wild;7;Grand;Druid;Rare
+Living Roots;1;Grand;Druid;Common
+Mulch;3;Grand;Druid;Epic
+Savage Combatant;4;Grand;Druid;Rare
+Wildwalker;4;Grand;Druid;Common
+Acidmaw;7;Grand;Hunter;Legendary
+Ball of Spiders;6;Grand;Hunter;Rare
+Bear Trap;2;Grand;Hunter;Common
+Brave Archer;1;Grand;Hunter;Common
+Dreadscale;3;Grand;Hunter;Legendary
+King's Elekk;2;Grand;Hunter;Common
+Lock and Load;2;Grand;Hunter;Epic
+Powershot;3;Grand;Hunter;Rare
+Ram Wrangler;5;Grand;Hunter;Rare
+Stablemaster;3;Grand;Hunter;Epic
+Arcane Blast;1;Grand;Mage;Epic
+Coldarra Drake;6;Grand;Mage;Epic
+Dalaran Aspirant;4;Grand;Mage;Common
+Effigy;3;Grand;Mage;Rare
+Fallen Hero;2;Grand;Mage;Rare
+Flame Lance;5;Grand;Mage;Common
+Polymorph: Boar;3;Grand;Mage;Rare
+Rhonin;8;Grand;Mage;Legendary
+Spellslinger;3;Grand;Mage;Common
+Argent Horserider;3;Grand;Neutral;Common
+Argent Watchman;2;Grand;Neutral;Rare
+Armored Warhorse;4;Grand;Neutral;Rare
+Bolf Ramshield;6;Grand;Neutral;Legendary
+Boneguard Lieutenant;2;Grand;Neutral;Common
+Captured jormungar;7;Grand;Neutral;Common
+Chillmaw;7;Grand;Neutral;Legendary
+Clockwork Knight;5;Grand;Neutral;Common
+Coliseum Manager;3;Grand;Neutral;Rare
+Crowd Favorite;4;Grand;Neutral;Epic
+Dragonhawk Rider;3;Grand;Neutral;Common
+Evil Heckler;4;Grand;Neutral;Common
+Eydis Darkbane;3;Grand;Neutral;Legendary
+Fencing Coach;3;Grand;Neutral;Rare
+Fjola Lightbane;3;Grand;Neutral;Legendary
+Flame Juggler;2;Grand;Neutral;Common
+Frigid Snobold;4;Grand;Neutral;Common
+Frost Giant;10;Grand;Neutral;Epic
+Gadgetzan Jouster;1;Grand;Neutral;Common
+Garrison Commander;2;Grand;Neutral;Epic
+Gormok the Impaler;4;Grand;Neutral;Legendary
+Grand Crusader;6;Grand;Neutral;Epic
+Ice Rager;3;Grand;Neutral;Common
+Icehowl;9;Grand;Neutral;Legendary
+Injured Kvaldir;1;Grand;Neutral;Rare
+Justicar Trueheart;6;Grand;Neutral;Legendary
+Kodorider;6;Grand;Neutral;Epic
+Kvaldir Raider;5;Grand;Neutral;Common
+Lance Carrier;2;Grand;Neutral;Common
+Light's Champion;3;Grand;Neutral;Rare
+Lowly Squire;1;Grand;Neutral;Common
+Maiden of the Lake;4;Grand;Neutral;Common
+Master Jouster;6;Grand;Neutral;Rare
+Master of Ceremonies;3;Grand;Neutral;Epic
+Mogor's Champion;6;Grand;Neutral;Rare
+Mukla's Champion;5;Grand;Neutral;Common
+Nexus-Champion Saraad;5;Grand;Neutral;Legendary
+North Sea Kraken;9;Grand;Neutral;Common
+Pit Fighter;5;Grand;Neutral;Common
+Recruiter;5;Grand;Neutral;Epic
+Refreshment Vendor;4;Grand;Neutral;Common
+Saboteur;3;Grand;Neutral;Rare
+Sideshow Spelleater;6;Grand;Neutral;Epic
+Silent Knight;3;Grand;Neutral;Common
+Silver Hand Regent;3;Grand;Neutral;Common
+Skycap'n Kragg;7;Grand;Neutral;Legendary
+The Skeleton Knight;6;Grand;Neutral;Legendary
+Tournament Attendee;1;Grand;Neutral;Common
+Tournament Medic;4;Grand;Neutral;Common
+Twilight Guardian;4;Grand;Neutral;Epic
+Argent Lance;2;Grand;Paladin;Rare
+Competitive Spirit;1;Grand;Paladin;Rare
+Eadric the Pure;7;Grand;Paladin;Legendary
+Enter the Coliseum;6;Grand;Paladin;Epic
+Murloc Knight;4;Grand;Paladin;Common
+Mysterious Challenger;6;Grand;Paladin;Epic
+Seal of Champions;3;Grand;Paladin;Common
+Tuskarr Jouster;5;Grand;Paladin;Rare
+Warhorse Trainer;3;Grand;Paladin;Common
+Confessor Paletress;7;Grand;Priest;Legendary
+Confuse;2;Grand;Priest;Epic
+Convert;2;Grand;Priest;Rare
+Flash Heal;1;Grand;Priest;Common
+Holy champion;4;Grand;Priest;Common
+Power Word: Glory;1;Grand;Priest;Common
+Shadowfiend;3;Grand;Priest;Epic
+Spawn of Shadows;4;Grand;Priest;Rare
+Wyrmrest Agent;2;Grand;Priest;Rare
+Anub'arak;9;Grand;Rogue;Legendary
+Beneath the Grounds;3;Grand;Rogue;Epic
+Buccaneer;1;Grand;Rogue;Common
+Burgle;3;Grand;Rogue;Rare
+Cutpurse;2;Grand;Rogue;Rare
+Poisoned Blade;4;Grand;Rogue;Epic
+Shado-Pan Rider;5;Grand;Rogue;Common
+Shady Dealer;3;Grand;Rogue;Rare
+Undercity Valiant;2;Grand;Rogue;Common
+Ancestral Knowledge;2;Grand;Shaman;Common
+Charged Hammer;4;Grand;Shaman;Epic
+Draenei Totemcarver;4;Grand;Shaman;Rare
+Elemental Destruction;3;Grand;Shaman;Epic
+Healing Wave;3;Grand;Shaman;Rare
+The Mistcaller;6;Grand;Shaman;Legendary
+Thunder Bluff Valiant;5;Grand;Shaman;Rare
+Totem Golem;2;Grand;Shaman;Common
+Tuskarr Totemic;3;Grand;Shaman;Common
+Dark Bargain;6;Grand;Warlock;Epic
+Demonfuse;2;Grand;Warlock;Common
+Dreadsteed;4;Grand;Warlock;Epic
+Fearsome Doomguard;7;Grand;Warlock;Common
+Fist of Jaraxxus;4;Grand;Warlock;Rare
+Tiny Knight of Evil;2;Grand;Warlock;Rare
+Void Crusher;6;Grand;Warlock;Rare
+Wilfred Fizzlebang;6;Grand;Warlock;Legendary
+Wrathguard;2;Grand;Warlock;Common
+Alexstrasza's Champion;2;Grand;Warrior;Rare
+Bash;3;Grand;Warrior;Common
+Bolster;2;Grand;Warrior;Common
+King's Defender;3;Grand;Warrior;Rare
+Magnataur Alpha;4;Grand;Warrior;Epic
+Orgrimmar Aspirant;3;Grand;Warrior;Common
+Sea Reaver;6;Grand;Warrior;Epic
+Sparring Partner;2;Grand;Warrior;Rare
+Varian Wrynn;10;Grand;Warrior;Legendary
+Jungle Moonkin;4;Explorers;Druid;Rare
+Mounted Raptor;3;Explorers;Druid;Common
+Raven Idol;1;Explorers;Druid;Common
+Dart Trap;2;Explorers;Hunter;Common
+Desert Camel;3;Explorers;Hunter;Common
+Explorer’s Hat;2;Explorers;Hunter;Rare
+Animated Armor;4;Explorers;Mage;Rare
+Ethereal Conjurer;5;Explorers;Mage;Common
+Forgotten Torch;3;Explorers;Mage;Common
+Anyfin Can Happen;10;Explorers;Paladin;Rare
+Keeper of Uldaman;4;Explorers;Paladin;Common
+Sacred Trial;1;Explorers;Paladin;Common
+Entomb;6;Explorers;Priest;Common
+Excavated Evil;5;Explorers;Priest;Rare
+Museum Curator;2;Explorers;Priest;Common
+Pit Snake;1;Explorers;Rogue;Common
+Tomb Pillager;4;Explorers;Rogue;Common
+Unearthed Raptor;3;Explorers;Rogue;Common
+Everyfin is Awesome;7;Explorers;Shaman;Rare
+Rumbling Elemental;4;Explorers;Shaman;Common
+Tunnel Trogg;1;Explorers;Shaman;Common
+Curse of Rafaam;2;Explorers;Warlock;Common
+Dark Peddler;2;Explorers;Warlock;Common
+Reliquary Seeker;1;Explorers;Warlock;Rare
+Cursed Blade;1;Explorers;Warrior;Rare
+Fierce Monkey;3;Explorers;Warrior;Common
+Obsidian Destroyer;7;Explorers;Warrior;Common
+Ancient Shade;4;Explorers;Neutral;Rare
+Anubisath Sentinel;5;Explorers;Neutral;Common
+Arch-Thief Rafaam;9;Explorers;Neutral;Legendary
+Brann Bronzebeard;3;Explorers;Neutral;Legendary
+Djinni of Zephyrs;5;Explorers;Neutral;Epic
+Eerie Statue;4;Explorers;Neutral;Rare
+Elise Starseeker;4;Explorers;Neutral;Legendary
+Fossilized Devilsaur;8;Explorers;Neutral;Common
+Gorillabot A-3;4;Explorers;Neutral;Common
+Huge Toad;2;Explorers;Neutral;Common
+Jeweled Scarab;2;Explorers;Neutral;Common
+Murloc Tinyfin;0;Explorers;Neutral;Common
+Naga Sea Witch;5;Explorers;Neutral;Epic
+Reno Jackson;6;Explorers;Neutral;Legendary
+Sir Finley Mrrgglton;1;Explorers;Neutral;Legendary
+Summoning Stone;5;Explorers;Neutral;Rare
+Tomb Spider;4;Explorers;Neutral;Common
+Wobbling Runts;6;Explorers;Neutral;Common
+Forbidden Ancient;1;Old;Druid;Epic
+Mark of Y'Shaarj;2;Old;Druid;Common
+Feral Rage;3;Old;Druid;Common
+Addled Grizzly;3;Old;Druid;Rare
+Klaxxi Amber-Weaver;4;Old;Druid;Rare
+Mire Keeper;4;Old;Druid;Rare
+Fandral Staghelm;4;Old;Druid;Legendary
+Dark Arakkoa;6;Old;Druid;Common
+Wisps of the Old;7;Old;Druid;Epic
+On the Hunt;1;Old;Hunter;Common
+Fiery Bat;1;Old;Hunter;Common
+Carrion Grub;3;Old;Hunter;Common
+Infest;3;Old;Hunter;Rare
+Forlorn Stalker;3;Old;Hunter;Rare
+Infested Wolf;4;Old;Hunter;Rare
+Princess Huhuran;5;Old;Hunter;Legendary
+Call of the Wild;8;Old;Hunter;Epic
+Giant Sand Worm;8;Old;Hunter;Epic
+Forbidden Flame;0;Old;Mage;Epic
+Shatter;2;Old;Mage;Common
+Cult Sorcerer;2;Old;Mage;Rare
+Twilight Flamecaller;3;Old;Mage;Common
+Demented Frostcaller;4;Old;Mage;Rare
+Servant of Yogg-Saron;5;Old;Mage;Rare
+Cabalist's Tome;5;Old;Mage;Epic
+Faceless Summoner;6;Old;Mage;Common
+Anomalus;8;Old;Mage;Legendary
+Forbidden Healing;0;Old;Paladin;Epic
+Divine Strength;1;Old;Paladin;Common
+Selfless Hero;1;Old;Paladin;Rare
+Vilefin Inquisitor;1;Old;Paladin;Epic
+A Light in the Darkness;2;Old;Paladin;Common
+Rallying Blade;3;Old;Paladin;Rare
+Steward of Darkshire;3;Old;Paladin;Rare
+Stand Against Darkness;5;Old;Paladin;Common
+Ragnaros, Lightlord;8;Old;Paladin;Legendary
+Forbidden Shaping;0;Old;Priest;Epic
+Embrace the Shadow;2;Old;Priest;Epic
+Hooded Acolyte;4;Old;Priest;Common
+Shadow Word: Horror;4;Old;Priest;Rare
+Shifting Shade;4;Old;Priest;Rare
+Power Word: Tentacles;5;Old;Priest;Common
+Darkshire Alchemist;5;Old;Priest;Common
+Twilight Darkmender;5;Old;Priest;Rare
+Herald Volazj;6;Old;Priest;Legendary
+Bladed Cultist;1;Old;Rogue;Common
+Journey Below;1;Old;Rogue;Rare
+Undercity Huckster;2;Old;Rogue;Rare
+Shadow Strike;3;Old;Rogue;Common
+Southsea Squidface;4;Old;Rogue;Common
+Xaril, Poisoned Mind;4;Old;Rogue;Legendary
+Shadowcaster;5;Old;Rogue;Epic
+Thistle Tea;6;Old;Rogue;Rare
+Blade of C'Thun;9;Old;Rogue;Epic
+Primal Fusion;1;Old;Shaman;Common
+Evolve;1;Old;Shaman;Rare
+Stormcrack;2;Old;Shaman;Common
+Eternal Sentinel;2;Old;Shaman;Epic
+Flamewreathed Faceless;4;Old;Shaman;Common
+Master of Evolution;4;Old;Shaman;Rare
+Hammer of Twilight;5;Old;Shaman;Epic
+Hallazeal the Ascended;5;Old;Shaman;Legendary
+Thing from Below;6;Old;Shaman;Rare
+Forbidden Ritual;0;Old;Warlock;Rare
+Possessed Villager;1;Old;Warlock;Common
+Darkshire Librarian;2;Old;Warlock;Rare
+Renounce Darkness;2;Old;Warlock;Epic
+Darkshire Councilman;3;Old;Warlock;Common
+Spreading Madness;3;Old;Warlock;Rare
+Usher of Souls;5;Old;Warlock;Common
+Cho'Gall;7;Old;Warlock;Legendary
+DOOM!;10;Old;Warlock;Epic
+N'Zoth's First Mate;1;Old;Warrior;Common
+Blood to Ichor;1;Old;Warrior;Rare
+Ravaging Ghoul;3;Old;Warrior;Common
+Bloodsail Cultist;3;Old;Warrior;Rare
+Blood Warriors;3;Old;Warrior;Epic
+Bloodhoof Brave;4;Old;Warrior;Common
+Tentacles for Arms;5;Old;Warrior;Epic
+Ancient Shieldbearer;7;Old;Warrior;Rare
+Malkorok;7;Old;Warrior;Legendary
+Tentacle of N'Zoth;1;Old;Neutral;Common
+Zealous Initiate;1;Old;Neutral;Common
+Shifter Zerus;1;Old;Neutral;Legendary
+Beckoner of Evil;2;Old;Neutral;Common
+Bilefin Tidehunter;2;Old;Neutral;Common
+Duskboar;2;Old;Neutral;Common
+Twilight Geomancer;2;Old;Neutral;Common
+Twisted Worgen;2;Old;Neutral;Common
+Nat, the Darkfisher;2;Old;Neutral;Legendary
+Am'gam Rager;3;Old;Neutral;Common
+Spawn of N'Zoth;3;Old;Neutral;Common
+Squirming tentacle;3;Old;Neutral;Common
+Twilight Elder;3;Old;Neutral;Common
+Disciple of C'Thun;3;Old;Neutral;Rare
+Silithid Swarmer;3;Old;Neutral;Rare
+Aberrant Berserker;4;Old;Neutral;Common
+C'Thun's Chosen;4;Old;Neutral;Common
+Evolved Kobold;4;Old;Neutral;Common
+Infested Tauren;4;Old;Neutral;Common
+Polluted Hoarder;4;Old;Neutral;Common
+Blackwater Pirate;4;Old;Neutral;Rare
+Eater of Secrets;4;Old;Neutral;Rare
+Midnight Drake;4;Old;Neutral;Rare
+Cyclopian Horror;4;Old;Neutral;Epic
+Faceless Shambler;4;Old;Neutral;Epic
+Twilight Summoner;4;Old;Neutral;Epic
+Cult Apothecary;5;Old;Neutral;Common
+Psych-o-Tron;5;Old;Neutral;Common
+Corrupted Healbot;5;Old;Neutral;Rare
+Crazed Worshipper;5;Old;Neutral;Epic
+Darkspeaker;5;Old;Neutral;Epic
+Validated Doomsayer;5;Old;Neutral;Epic
+Nerubian Prophet;6;Old;Neutral;Common
+Corrupted Seer;6;Old;Neutral;Rare
+Skeram Cultist;6;Old;Neutral;Rare
+Ancient Harbinger;6;Old;Neutral;Epic
+Scaled Nightmare;6;Old;Neutral;Epic
+Mukla, Tyrant of the Vale;6;Old;Neutral;Legendary
+Bog Creeper;7;Old;Neutral;Common
+Grotesque Dragonhawk;7;Old;Neutral;Common
+Hogger, Doom of Elwynn;7;Old;Neutral;Legendary
+Twin Emperor Vek'lor;7;Old;Neutral;Legendary
+Eldritch Horror;8;Old;Neutral;Common
+Doomcaller;8;Old;Neutral;Rare
+The Boogeymonster;8;Old;Neutral;Legendary
+Blood of The Ancient One;9;Old;Neutral;Epic
+Soggoth the Slitherer;9;Old;Neutral;Legendary
+Faceless Behemoth;10;Old;Neutral;Common
+C'Thun;10;Old;Neutral;Legendary
+Deathwing, Dragonlord;10;Old;Neutral;Legendary
+N'Zoth the Corruptor;10;Old;Neutral;Legendary
+Yogg-Saron, Hope's End;10;Old;Neutral;Legendary
+Y'Shaarj, Rage Unbound;10;Old;Neutral;Legendary
